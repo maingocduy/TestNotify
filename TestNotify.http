@@ -1,0 +1,6 @@
+@TestNotify_HostAddress = http://localhost:5263
+
+GET {{TestNotify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
